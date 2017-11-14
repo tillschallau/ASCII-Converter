@@ -208,7 +208,7 @@ int main(int argc, char **argv)
 {
 	read_png_file("Homer_Simpson_2006.png");
 	process_file();
-	write_png_file("Homer_Simpson_2006.png");
+	//write_png_file("Homer_Simpson_2006.png");
 
 	return 0;
 }
